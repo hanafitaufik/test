@@ -1,0 +1,24 @@
+#EXTM3U
+
+--------------------- RTMKlik -----------------------
+
+#EXTINF:-1 tvg-id="RTMK01" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428036_ico.png" group-title="Malaysia: RTMKlik",TV1
+https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
+
+#EXTINF:-1 tvg-id="RTMK02" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428037_ico.png" group-title="Malaysia: RTMKlik",TV2
+https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
+
+#EXTINF:-1 tvg-ID="RTMK06" tvg-logo="https://i.imgur.com/dRNFCix.png" group-title="Malaysia: RTMKlik",TV6
+https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
+
+#EXTINF:-1 tvg-ID="RTMK03" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/okey.png" group-title="Malaysia: RTMKlik",OKEY
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
+
+#EXTINF:-1 tvg-ID="RTMK04" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/berita%20rtm.png" group-title="Malaysia: RTMKlik",BERITA RTM
+https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
+
+#EXTINF:-1 tvg-id="RTMK05" group-title="Malaysia: RTMKlik" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/RTM_Sports.png",RTM SUKAN
+https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
+
+#EXTINF:-1 tvg-ID="RTMK07" tvg-logo="https://i.imgur.com/i7Z8C1s.png" group-title="Malaysia: RTMKlik",RTM PARLIMEN
+https://rtmlive04tv.secureswiftcontent.com/rtmchannel/04-manifest.mpd
